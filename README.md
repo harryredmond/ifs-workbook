@@ -12,7 +12,7 @@
 
 5- `git add .` 
 
-6- `git commit -m "Init"
+6- `git commit -m "Init"`
 
 7- `git push`
 
