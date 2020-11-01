@@ -22,7 +22,7 @@
 
 ## Exercises
 
-- Throughout the course you will be given tasks to create manifest files; Dockerfile, docker-compose.yml, k8s specification files *.yml
+- Throughout the course you will be given tasks to create manifest files; screenshots, Dockerfile, docker-compose.yml, k8s specification files *.yml
 
 - Store them in the corresponding directory `YOUR_NAME/Day#` and repeat 5-9 steps
 
